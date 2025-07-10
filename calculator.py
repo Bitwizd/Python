@@ -18,4 +18,5 @@ if (option in [1,2,3,4]):
 else:
     print("invalid text")
 
+# Result
 print(f"the result of the operation is {result}")
