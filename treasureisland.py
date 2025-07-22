@@ -1,4 +1,4 @@
-# 💖 Anjali's Cute Treasure Adventure Game 💖 NO CHEATING PLEASE
+# 💖 Anjali's Cute Treasure Adventure Game 💖 NO CHEATING PLEASE kEEP IT FAIR
 
 print("🌴 Welcome to Treasure Island! 🌴")
 print("Your mission is to find the treasure... 💎 but only if you answer correctly!\n")
