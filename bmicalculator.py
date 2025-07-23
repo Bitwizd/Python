@@ -7,5 +7,5 @@ weight = float(input("what is your weight in kg:"))
 
 height_square = (height)**2
 bmi = weight/height_square
-print("your bmi is :",bmi)
-
+print("your bmi is :", bmi)
+# Output
