@@ -18,6 +18,7 @@ if (option in [1,2,3,4]):
         result = number1/number2
 else:
     print("invalid text")
-
+# output
 # Result
 print(f"the result of the operation is {result}")
+
