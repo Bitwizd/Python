@@ -9,3 +9,4 @@ height_square = (height)**2
 bmi = weight/height_square
 print("your bmi is :", bmi)
 # Output
+# result
