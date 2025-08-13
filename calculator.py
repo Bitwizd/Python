@@ -1,4 +1,4 @@
-# input
+# input value
 print("Select operation:")
 print("1. Add")
 print("2. Subtract")
@@ -21,4 +21,5 @@ else:
 # output
 # Result
 print(f"the result of the operation is {result}")
+
 
